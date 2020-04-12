@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="PartialForceDefaultServer">
+    <output-path>$PROJECT_DIR$/../../Waterfall/plugins</output-path>
+    <root id="archive" name="PartialForceDefaultServer.jar">
+      <element id="module-output" name="PartialForceDefaultServer" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/main/resources/bungee.yml" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/main/resources/config.yml" />
+    </root>
+  </artifact>
+</component>

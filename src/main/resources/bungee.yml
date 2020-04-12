@@ -1,0 +1,4 @@
+name: PartialForceDefaultServer
+version: ${project.version}
+main: com.matrix.partialforcedefaultserver.PartialForceDefaultServer
+author: Matrixchung

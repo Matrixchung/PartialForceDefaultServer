@@ -1,0 +1,4 @@
+lobbyServer: lobby
+serversNeedToTpToLobby:
+  - example1
+  - example2
